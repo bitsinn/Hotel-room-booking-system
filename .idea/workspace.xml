@@ -31,7 +31,7 @@
 }</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.booking.system.menu.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.booking.system.logic.Main" />
       <module name="Sirma Academy - Hotel room booking system" />
       <method v="2">
         <option name="Make" enabled="true" />

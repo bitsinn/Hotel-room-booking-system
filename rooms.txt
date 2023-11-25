@@ -1,0 +1,1 @@
+Room{roomType='Deluxe', roomNumber=501, roomCapacity=4, pricePerNight=120.0, status='Not Booked', amenities=[1, 2, 3, 4]}
